@@ -1,0 +1,23 @@
+{
+  "name": "projectoneback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisCastellano/ProjectOneBack.git"
+  },
+  "author": "Luis Manuel Castellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisCastellano/ProjectOneBack/issues"
+  },
+  "homepage": "https://github.com/LuisCastellano/ProjectOneBack#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
